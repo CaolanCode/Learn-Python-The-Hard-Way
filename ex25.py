@@ -9,7 +9,7 @@ def sort_words(words):
 
 def print_first_word(words):
     """Print the first word after poppiing off"""
-    word . words.pop(0)
+    word = words.pop(0)
     print(word)
 
 def print_last_word(words):
